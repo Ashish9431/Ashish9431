@@ -6,7 +6,7 @@
   <h1 align="center">Hello 👋, I'm Ashish Kumar</h1>
   <h3 align="center">Full Stack Developer with a passion for development and excited to be at the deployment phase of my career as a web developer. Proficient in Frontend technology</h3>
   <hr>
-  <a target="_blank" align="center" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/35d3000285c02dc5d1221e9dccc0419b3aea8ce8e44d82d78590deacc9595a3e/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f766563746f72732f7765622d646576656c6f706d656e742d636f64696e672d616e642d70726f6772616d6d696e672d726573706f6e736976652d6c61796f75742d696e7465726e65742d6f722d766563746f722d6964313136373439383739373f6b3d36266d3d3131363734393837393726733d3137303636376126773d3026683d6a52566c7a63324f6b4e7555787a2d4a4a79326d414d3443426b4d73736d42475664337545676b735333493d"><img alt="coding" width="80%" height="400px" align="center" src="https://camo.githubusercontent.com/35d3000285c02dc5d1221e9dccc0419b3aea8ce8e44d82d78590deacc9595a3e/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f766563746f72732f7765622d646576656c6f706d656e742d636f64696e672d616e642d70726f6772616d6d696e672d726573706f6e736976652d6c61796f75742d696e7465726e65742d6f722d766563746f722d6964313136373439383739373f6b3d36266d3d3131363734393837393726733d3137303636376126773d3026683d6a52566c7a63324f6b4e7555787a2d4a4a79326d414d3443426b4d73736d42475664337545676b735333493d" data-canonical-src="https://media.istockphoto.com/vectors/web-development-coding-and-programming-responsive-layout-internet-or-vector-id1167498797?k=6&amp;m=1167498797&amp;s=170667a&amp;w=0&amp;h=jRVlzc2OkNuUxz-JJy2mAM4CBkMssmBGVd3uEgksS3I=" style="max-width: 100%;"></a>
+<!--   <a target="_blank" align="center" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/35d3000285c02dc5d1221e9dccc0419b3aea8ce8e44d82d78590deacc9595a3e/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f766563746f72732f7765622d646576656c6f706d656e742d636f64696e672d616e642d70726f6772616d6d696e672d726573706f6e736976652d6c61796f75742d696e7465726e65742d6f722d766563746f722d6964313136373439383739373f6b3d36266d3d3131363734393837393726733d3137303636376126773d3026683d6a52566c7a63324f6b4e7555787a2d4a4a79326d414d3443426b4d73736d42475664337545676b735333493d"><img alt="coding" width="80%" height="400px" align="center" src="https://camo.githubusercontent.com/35d3000285c02dc5d1221e9dccc0419b3aea8ce8e44d82d78590deacc9595a3e/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f766563746f72732f7765622d646576656c6f706d656e742d636f64696e672d616e642d70726f6772616d6d696e672d726573706f6e736976652d6c61796f75742d696e7465726e65742d6f722d766563746f722d6964313136373439383739373f6b3d36266d3d3131363734393837393726733d3137303636376126773d3026683d6a52566c7a63324f6b4e7555787a2d4a4a79326d414d3443426b4d73736d42475664337545676b735333493d" data-canonical-src="https://media.istockphoto.com/vectors/web-development-coding-and-programming-responsive-layout-internet-or-vector-id1167498797?k=6&amp;m=1167498797&amp;s=170667a&amp;w=0&amp;h=jRVlzc2OkNuUxz-JJy2mAM4CBkMssmBGVd3uEgksS3I=" style="max-width: 100%;"></a> -->
   <hr>
   <p align="center">
   <a href="https://www.linkedin.com/in/ashish-kumar-4097b6246/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhat" height="30" width="40" /></a>
@@ -62,12 +62,26 @@
   </p>
    
   <br/>
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashish9431&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="akshit3010" /></p>
+<!--   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashish9431&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="akshit3010" /></p>
   <p align="center">
       <a href="https://github.com/Ashish9431/github-readme-streak-stats">
           <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish9431&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
       </a>
   </p>
   <p align="center">
-      <a href="https://github.com/Ashish9431/github-readme-stats"><img alt="AAshish9431's Stats" src="https://github-readme-stats.vercel.app/api?username=Ashish9431&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      <a href="https://github.com/Ashish9431/github-readme-stats"><img alt="AAshish9431's Stats" src="https://github-readme-stats.vercel.app/api?username=Ashish9431&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
       </p>
+      
+ <div align="center" style="display: flex; gap:50px">   
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ashish9431&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish9431&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+
+</div>
+<div align="center" style="display: flex; ">
+ 
+<img src="https://streak-stats.demolab.com?user=Ashish9431&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+
+</div>
+      
