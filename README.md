@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <img src="https://camo.githubusercontent.com/424b91a7dbc23f136766f18467c1c4897f5f50e7123b35e36c9cd5bf05b4465e/68747470733a2f2f676c6f62616c656475636174696f6e2e73332e61702d736f7574682d312e616d617a6f6e6177732e636f6d2f676c6f62616c6564752f6769662f66726f6e742d656e642d646576656c6f706d656e742e676966" />
   </div>
   
   
@@ -30,7 +30,7 @@
   
   - 🌏 Visit to me **[portfolio](https://ashish9431.github.io/)**
   
-  - 📃 Look at *[Resume](https://drive.google.com/file/d/1ImbE5PM2eLA0NoE-fbgXnztEDrM7x_oK/view?usp=share_link)***
+  - 📃 Look at *[Resume](https://drive.google.com/file/d/1WIUk-7lkbkStXdxFkNx0tMvmQAGKXOCb/view?usp=share_link)***
   
   - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/Ashish9431)
   
